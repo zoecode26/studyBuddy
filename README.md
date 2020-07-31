@@ -7,9 +7,11 @@ We decided to create a study website as the world of revision can be very overwh
 
 ### Screenshots
 **Home Page:**
+
 ![Home Page](screenshotHome.png)
 
 **Video Revision Page:**
+
 ![Video Revision Page](screenshotVideo.png)
 
 ### Frameworks
