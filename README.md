@@ -7,14 +7,14 @@ We decided to create a study website as the world of revision can be very overwh
 
 ### Screenshots
 **Home Page:**
-! Home Page (https://github.com/zoecode26/studyBuddy/blob/master/screenshotHome.png)
+! [Home Page] (https://github.com/zoecode26/studyBuddy/blob/master/screenshotHome.png)
 
 **Video Revision Page:**
-! Video Revision Page (https://github.com/zoecode26/studyBuddy/blob/master/screenshotVideo.png)
+! [Video Revision Page] (https://github.com/zoecode26/studyBuddy/blob/master/screenshotVideo.png)
 
 ### Frameworks
 **Built with**:
-*Bootstrap ( https://getbootstrap.com/)
+*[Bootstrap] ( https://getbootstrap.com/)
 
 ### Credits
 Credit to my fellow groupmates at the CodeLikeAGirl work experience programme who made massive contributions to the website’s creation.
