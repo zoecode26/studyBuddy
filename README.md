@@ -14,7 +14,7 @@ We decided to create a study website as the world of revision can be very overwh
 
 ### Frameworks
 **Built with**:
-*[Bootstrap] ( https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ### Credits
 Credit to my fellow groupmates at the CodeLikeAGirl work experience programme who made massive contributions to the website’s creation.
