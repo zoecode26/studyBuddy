@@ -7,10 +7,10 @@ We decided to create a study website as the world of revision can be very overwh
 
 ### Screenshots
 **Home Page:**
-! [Home Page] (https://github.com/zoecode26/studyBuddy/blob/master/screenshotHome.png)
+![Home Page](screenshotHome.png)
 
 **Video Revision Page:**
-! [Video Revision Page] (https://github.com/zoecode26/studyBuddy/blob/master/screenshotVideo.png)
+![Video Revision Page](screenshotVideo.png)
 
 ### Frameworks
 **Built with**:
